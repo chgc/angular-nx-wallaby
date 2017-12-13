@@ -42,3 +42,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Work with wallaby.js
+
+* 新增 [wallaby.js](wallaby.js)
+* 新增 [wallabyTest.ts](wallabyTest.ts)
+* 修改 [tsconfig.json](tsconfig.json)
+* Run npm install wallaby-webpack angular2-template-loader electron --save-dev.
